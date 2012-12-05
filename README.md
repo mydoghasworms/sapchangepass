@@ -1,8 +1,6 @@
 SAP Mass Password Change Script
 ===============================
 
-# SAP Mass Password Change Script
-
 Based on <http://ceronio.net/2007/08/mass-change-your-sap-passwords/>
 
 This is a VB script that allows you to mass change your SAP passwords by logging on to each system and calling
