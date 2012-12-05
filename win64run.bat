@@ -1,0 +1,1 @@
+%systemroot%\SysWOW64\WScript.exe chpass.vbs
